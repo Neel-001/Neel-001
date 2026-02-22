@@ -1,1 +1,1 @@
-# Hi 👋, I'm Neel Patel
+# Hi 👋, I'm Neel Pate
