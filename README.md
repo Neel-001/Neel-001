@@ -21,7 +21,9 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Neel01)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/neel01/)
 
+
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/neel-patel-b82338280/))
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:neelp20062005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-patel-b82338280/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelp20062005@gmail.com)
