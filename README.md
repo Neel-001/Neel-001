@@ -18,12 +18,6 @@
 
 ## 🧠 Coding Profiles
 
-<a href="https://leetcode.com/Neel01/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
-</a>
-<a href="https://codeforces.com/profile/Neel01" target="_blank">
-  <img src="https://skillicons.dev/icons?i=codeforces" height="50" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/neel01/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=geeksforgeeks" height="50" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Neel01/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Neel01)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/neel01/)
