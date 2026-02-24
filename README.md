@@ -5,17 +5,15 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`C` `C++` `Python` `JavaScript` `HTML` `CSS` `SQL`
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql" />
 
 ### ⚙️ Frameworks & Libraries
-`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 
 ### 🧰 Tools & Technologies
-`Git` `GitHub` `MongoDB` `MySQL`  
-`Docker` `Kubernetes` `CI/CD`  
-`Nginx` `Prometheus` `Grafana`
+<img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,docker,kubernetes,nginx,prometheus,grafana" />
 
 ### 📚 Core CS
-`DSA` `OOP` `DBMS`
-
+<img src="https://skillicons.dev/icons?i=cpp" />
+<p>DSA · OOP · DBMS</p>
 ---
