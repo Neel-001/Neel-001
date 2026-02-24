@@ -19,11 +19,11 @@
 ## 🧠 Coding Profiles
 
 <a href="https://leetcode.com/Neel01/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://skillicons.dev/icons?i=leetcode" height="50" />
 </a>
 <a href="https://codeforces.com/profile/Neel01" target="_blank">
-  <img src="https://skillicons.dev/icons?i=codeforces" />
+  <img src="https://skillicons.dev/icons?i=codeforces" height="50" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/neel01/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=geeksforgeeks" />
+  <img src="https://skillicons.dev/icons?i=geeksforgeeks" height="50" />
 </a>
